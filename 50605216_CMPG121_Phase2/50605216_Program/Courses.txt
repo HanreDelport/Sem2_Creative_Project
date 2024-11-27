@@ -1,0 +1,12 @@
+Intro to Programming with Python#Learn all the fundamentals of working with the python programming language while creating your own useful programs automating everyday tasks.#IPP
+5 5 5 5 40 40
+Web Development with JavaScript#Learn the fundamentals of web development using JavaScript, covering both front-end and back-end technologies to create interactive and dynamic websites.#WDJS
+10 10 40 40 0 0
+Data Science with R#Explore data manipulation, analysis, and visualization techniques using R, along with essential statistical methods for data-driven decision-making.#DSR
+5 5 5 5 50 30
+Mobile App Development with Flutter#Discover how to build cross-platform mobile applications using Flutter, focusing on user interface design, state management, and deployment.#MADF
+30 30 30 0 0 0
+Object-Oriented Programming in Java#Dive deep into object-oriented programming principles in Java, learning how to design, implement, and manage complex software systems.#OOPJ
+10 10 10 10 10 10
+Introduction to Machine Learning with Python#Get started with machine learning concepts and techniques using Python, including algorithms, model evaluation, and real-world applications.#IMLP
+20 30 50 0 0 0 
